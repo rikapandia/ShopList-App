@@ -18,13 +18,13 @@
 
 ## Screenshot
 ### Tampilan Utama (List Produk)
-![Tampilan Utama](screenshots/main.jpg)
+![Tampilan Utama](screenshots/home.jpeg)
 
 ### Tampilan Search — saat ada hasil
-![Search Ada Hasil](screenshots/search_found.jpg)
+![Search Ada Hasil](screenshots/search.jpeg)
 
 ### Tampilan Empty State — saat tidak ada hasil
-![Empty State](screenshots/empty.jpg)
+![Empty State](screenshots/bar.jpeg)
 
 ## Cara Menjalankan
 1. Clone repo  : git clone [url-repo-kamu]
