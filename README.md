@@ -18,13 +18,16 @@
 
 ## Screenshot
 ### Tampilan Utama (List Produk)
-![Tampilan Utama](screenshots/home.jpeg)
+<img width="718" height="1599" alt="home" src="https://github.com/user-attachments/assets/53f9bf86-39ab-4cda-8f00-1afca370e4de" />
+
 
 ### Tampilan Search — saat ada hasil
-![Search Ada Hasil](screenshots/search.jpeg)
+<img width="720" height="1604" alt="sreach" src="https://github.com/user-attachments/assets/3d1afa6a-1495-49ae-8b3f-3f103b06ee97" />
+
 
 ### Tampilan Empty State — saat tidak ada hasil
-![Empty State](screenshots/bar.jpeg)
+<img width="720" height="1604" alt="bar" src="https://github.com/user-attachments/assets/e7954c11-0b5c-49d4-bfbb-fbaf180d8ca8" />
+
 
 ## Cara Menjalankan
 1. Clone repo  : git clone [url-repo-kamu]
