@@ -1,9 +1,7 @@
 # ShopList App - Pemrograman Mobile Pertemuan 6
 
 ## Nama & NIM
-- Nama: [Rika Debora Masdalena Sembiring<img width="718" height="1599" alt="WhatsApp Image 2026-04-25 at 17 11 22" src="https://github.com/user-attachments/assets/dd2e4a11-e0ee-43fc-b17b-51b6645deac9" />
-<img width="718" height="1599" alt="WhatsApp Image 2026-04-25 at 17 11 22" src="https://github.com/user-attachments/assets/23237a00-4a0d-403d-b8cd-87d7082ecce0" />
-]
+- Nama: [Rika Debora Masdalena Sembiring]
 - NIM:  [243303621282]
 
 ## Fitur yang Diimplementasikan
